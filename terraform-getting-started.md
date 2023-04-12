@@ -187,4 +187,4 @@ To learn more about Terraform, see our documentation, tutorials, and other helpf
 * [Terraform Registry](https://registry.terraform.io/)
 * [Terraform community](https://www.terraform.io/community/index.html) 
 * [HashiCorp Learn](https://learn.hashicorp.com/terraform)
-* [Terraform blog](
+* [Terraform blog](https://www.hashicorp.com/blog/products/terraform)
